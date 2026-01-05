@@ -2,6 +2,7 @@ import LoginModal, { generateAuthToken } from "./LoginModal";
 import ProfileDropdown from "./ProfileDropdown";
 
 import { useRef, useState, useEffect, useEffectEvent } from "react";
+import '@google/model-viewer';
 
 import {
   // import models
